@@ -16,3 +16,7 @@ $commission = 	($tuition >= 20000) ? ($tuition * 0.25) :
                (($tuition >= 7000 && $tuition < 10000) ? ($tuition * 0.15) : 'Data is Invalid'));
 
 echo "The Commission is: " . $commission;
+
+
+
+?>
