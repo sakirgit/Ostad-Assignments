@@ -25,3 +25,9 @@ for ($i = 1; $i <= 100; $i++) {
     $sum += $i;
 }
 echo "The summation of the series 1 + 2 + 3 + ... + 100 is $sum";
+                      
+                      
+                      
+                      
+                      
+                      
